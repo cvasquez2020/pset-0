@@ -33,7 +33,7 @@ Public Class PSet0 {
          */
 
         System.out.println("   ##    ######  ######## ########");
-        System.out.println(   #  #   #     # #        #       ");
+        System.out.println("  #  #   #     # #        #       ");
         System.out.println(" #    #  #     # #        #       ");
         System.out.println("######## ######  #        ########");
         System.out.println("#      # #       #               #");
