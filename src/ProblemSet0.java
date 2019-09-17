@@ -1,3 +1,4 @@
+  
 /**
  * Problem Set 0.
  * 
@@ -14,9 +15,9 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-Public Class ProblemSet0 {
+public class ProblemSet0{
 
-    public void Main(String args) {
+    public static void main(String[] args) {
 
         /*
          * Exercise 1.
@@ -114,4 +115,5 @@ Public Class ProblemSet0 {
          System.out.println("\n\t+---+\n\t|\t|");
    	 System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
    	 System.out.println("\t|\t|\n\t+---+\n");
+}
 }
