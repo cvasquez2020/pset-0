@@ -14,7 +14,7 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-Public Class PSet0 {
+Public Class ProblemSet0 {
 
     public void Main(String args) {
 
