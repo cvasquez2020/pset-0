@@ -18,7 +18,7 @@
 public class ProblemSet0{
 
     public static void main(String[] args) {
-
+	
         /*
          * Exercise 1.
          *
